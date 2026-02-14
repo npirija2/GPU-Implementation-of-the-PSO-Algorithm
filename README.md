@@ -22,4 +22,4 @@ CUDA-based implementation of Particle Swarm Optimization (PSO) optimized for NVI
 ```bash
 nvcc -O3 main.cu -o pso
 
-Benchmarks show strong scalability with large swarm sizes and high-dimensional search spaces, reducing execution time from minutes on CPU to fractions of a second on GPU.
+
