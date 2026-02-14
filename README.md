@@ -12,7 +12,6 @@ CUDA-based implementation of Particle Swarm Optimization (PSO) optimized for NVI
 - High-dimensional benchmarks (up to 120D)
 
 ## Requirements
-
 - NVIDIA GPU with CUDA support
 - CUDA Toolkit
 - C++ compiler (nvcc, g++)
