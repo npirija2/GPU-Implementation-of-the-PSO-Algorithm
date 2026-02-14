@@ -17,9 +17,5 @@ CUDA-based implementation of Particle Swarm Optimization (PSO) optimized for NVI
 - CUDA Toolkit
 - C++ compiler (nvcc, g++)
 
-## Build
-
-```bash
-nvcc -O3 main.cu -o pso
 
 
